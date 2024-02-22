@@ -1,3 +1,7 @@
+body{
+   background-color: #073b4c;
+}
+
 .box{
    height: 100px;
    width: 100px;
@@ -7,4 +11,22 @@
    border: 1px solid;
    text-align: center;
    line-height: 90px;
+   font-weight: 600;
+   font-size: 20px;
+}
+
+.cyan{
+   background-color: #1389b2;
+}
+
+.red{
+   background-color: #f0466f;
+}
+
+.green{
+   background-color: #0cd6a1;
+}
+
+.yellow{
+   background-color: #ffd166;
 }
